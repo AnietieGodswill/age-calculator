@@ -2,7 +2,7 @@
 <p align="center"><b>AGE FINDER</b></p>
 
 # AGE FINDER ⚡
-* FIND YOUR AGE ON EACH PLANETS
+* FIND YOUR AGE ON OTHERS PLANETS
 
 # SCREENSHOT 📸
 ![](ss/ss.PNG)

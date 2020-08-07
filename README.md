@@ -2,8 +2,7 @@
 <p align="center"><b>AGE FINDER</b></p>
 
 # AGE FINDER ⚡
-* FREE EMAIL BOMBER 
-* FAST AND EASY TO USE
+* FIND YOUR AGE ON EACH PLANETS
 
 ## Contact Me ☎
 

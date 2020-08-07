@@ -14,6 +14,8 @@ II) PRESS **FIND AGE** TO CALCULATE
 
 ## Contact Me ☎
 
+#### Gmail: dx4iot@gmail.com
+
 #### Instagram: https://www.instagram.com/dx4iot/
 
 #### LinkedIn: https://www.linkedin.com/in/dx4iot

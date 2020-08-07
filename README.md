@@ -4,6 +4,9 @@
 # AGE FINDER ⚡
 * FIND YOUR AGE ON EACH PLANETS
 
+# SCREENSHOT 📸
+![](ss/ss.PNG)
+
 ## Contact Me ☎
 
 #### Instagram: https://www.instagram.com/dx4iot/

@@ -8,9 +8,9 @@
 ![](ss/ss.PNG)
 
 # HOW TO USE?
-I) ENTER YOUR D.O.B IN **(YY/MM/DD)** FORMAT 
+**I)** ENTER YOUR D.O.B IN **(YY/MM/DD)** FORMAT 
 
-II) PRESS **FIND AGE** TO CALCULATE
+**II)** PRESS **FIND AGE** TO CALCULATE
 
 ## Contact Me ☎
 

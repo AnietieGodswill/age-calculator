@@ -7,6 +7,11 @@
 # SCREENSHOT 📸
 ![](ss/ss.PNG)
 
+# HOW TO USE?
+I) ENTER YOUR D.O.B IN **(YY/MM/DD)** FORMAT 
+
+II) PRESS **FIND AGE** TO CALCULATE
+
 ## Contact Me ☎
 
 #### Instagram: https://www.instagram.com/dx4iot/

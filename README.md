@@ -1,8 +1,8 @@
 <p align="center"><img src="logo/logo.png" width="600" height="200" alt="logo"></p>
-<p align="center"><b>AGE FINDER - FIND YOUR AGE ON OTHER PLANETS</b></p>
+<p align="center"><b>AGE CALCULATOR - CALCULATE YOUR AGE ON OTHER PLANETS</b></p>
 
-# AGE FINDER ⚡
-Age Finder is a gui based program to find your age on other planets like, _**(Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto)**_
+# AGE CALCULATOR ⚡
+Age Calculator is a gui based program to calculate your age on other planets like, _**(Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto)**_
 
 # SCREENSHOT 📸
 ![](ss/ss.PNG)
@@ -21,3 +21,5 @@ Age Finder is a gui based program to find your age on other planets like, _**(Me
 #### LinkedIn: https://www.linkedin.com/in/dx4iot
 
 #### Facebook: https://www.facebook.com/dx4iot/
+
+

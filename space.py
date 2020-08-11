@@ -48,7 +48,7 @@ if __name__ == "__main__":
     root.config(background="gray10")
     root.geometry("550x700")
     
-    heading_h1 = Label(root,text="AGE FINDER",font="Jokerman 50 bold", bg="gray10",fg="white")
+    heading_h1 = Label(root,text="AGE CALCULATOR",font="Jokerman 38 bold", bg="gray10",fg="white")
     heading_h1.pack()
     #cal = Calendar(root,selectmode="day",year=2020,month=5,day=22)
     #cal.pack(pady=20)

@@ -1,4 +1,4 @@
-<p align="center"><img src="logo/logo.png" width="700" height="200" alt="logo"></p>
+<p align="center"><img src="logo/logo.png" width="800" height="200" alt="logo"></p>
 <p align="center"><b>AGE CALCULATOR - CALCULATE YOUR AGE ON OTHER PLANETS</b></p>
 
 # AGE CALCULATOR ⚡
